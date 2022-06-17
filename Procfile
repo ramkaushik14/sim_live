@@ -1,0 +1,1 @@
+web: gunicorn sentence_similarity.wsgi --log-file -
